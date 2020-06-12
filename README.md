@@ -1,6 +1,6 @@
 # Coronavirus data visualizations using Plotly
 
-Data visualization using global covid-19 dataset to analyze spread, confirmed, death and recovered case worldwide over time
+Data visualization using global covid-19 dataset to analyze spread, confirmed, death and recovered case worldwide over time thourgh 1/21/2020 - 5/30/2020
 
 ## Choropleth Maps
 ### Spread of the Coronavirus Globally Over Time
