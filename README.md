@@ -11,3 +11,7 @@ Data visualization using global covid-19 dataset to analyze spread, confirmed, d
   - Total Number of Recovered Cases Over Time
 - Line Graph
   - Confirmed Cases, Recovered Cases and Deaths Over Time
+  
+<p align="center">
+<img src="Images/newplot(1).png">
+</p>
